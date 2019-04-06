@@ -1,0 +1,7 @@
+<resources>
+    <string name="MUL" translatable="false">MUL</string>
+    <string name="CLEAR" translatable="false">LIMPAR</string>
+    <string name="SUB" translatable="false">SUB</string>
+    <string name="DIV" translatable="false">DIV</string>
+    <string name="SUM" translatable="false">SOM</string>
+</resources>
